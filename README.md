@@ -1,7 +1,7 @@
 #Big data analysis HW1 - Collect data
-Using `Elasticsearch` + `logstash` and `TwitterAPI` to collect twitter's search result.
-My keyword is `hello`
-and this is one of the result
+Using `Elasticsearch` + `logstash` and `TwitterAPI` to collect twitter's search result.  
+My keyword is `hello`  
+and this is one of the result  
 ```js
 {
     "_index": "twitter_hello",        # Elasticsearch store index
